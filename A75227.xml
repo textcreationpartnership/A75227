@@ -1,0 +1,420 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A New-Years gift: or, Advice to a god-son. By P.A. Gent.</title>
+            <author>P. A., Gent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 39 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75227</idno>
+            <idno type="STC">Wing A25A</idno>
+            <idno type="STC">ESTC R203728</idno>
+            <idno type="EEBO-CITATION">45789121</idno>
+            <idno type="OCLC">ocm 45789121</idno>
+            <idno type="VID">172435</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75227)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172435)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2630:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A New-Years gift: or, Advice to a god-son. By P.A. Gent.</title>
+                  <author>P. A., Gent.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition.</edition>
+               </editionStmt>
+               <extent>[3], 5-70, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.L. for Luke Meredith ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The statement "By P.A. Gent" appears on the t.p. after the ed. statement.</note>
+                  <note>Publisher's advertisements on [2] p. at end.</note>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian ethics --  England --  Study and teaching.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="to_the_reader">
+            <pb facs="tcp:172435:1"/>
+            <pb facs="tcp:172435:1"/>
+            <pb facs="tcp:172435:2"/>
+            <pb facs="tcp:172435:2" rendition="simple:additions"/>
+            <pb facs="tcp:172435:3"/>
+            <pb facs="tcp:172435:3"/>
+            <pb facs="tcp:172435:4"/>
+            <p>SInce the former Impreſſion of this Book, meting with the Judgment and Opinion of a great Stateſman, in the Reign of King <hi>Henry VIII.</hi> and his Vice-Roy in <hi>Ireland,</hi> Sir <hi>Anthony</hi> St. <hi>Lei<g ref="char:EOLhyphen"/>ger</hi> by Name (who uſed to ſay, That there were three things would ſettle a State or Kingdom, <hi>1ſt.</hi> Good God fathers and God-mothers performing their Vows. <hi>2dly,</hi> Good Houſholders over<g ref="char:EOLhyphen"/>looking their Families. <hi>3dly,</hi> Good School-maſters Educating of Youth. And this laſt the moſt uſeful, although the moſt contemptible.) I am the more encouraged to a Second Impreſ<g ref="char:EOLhyphen"/>ſion of the ſame, hoping it may ſomewhat contribute to the ſame good End before-mentioned; which is the hearty Prayers of the Author.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:172435:4"/>
+            <p>A <hi>New-Years Gift:</hi> OR, ADVICE TO A GOD-SON.</p>
+            <q>
+               <p>Train up a Child in the way he ſhould go, and when he is old he will not depart from it, <bibl>
+                     <hi>Prov.</hi> 22.6.</bibl>
+               </p>
+               <p>
+                  <hi>Religio eſt omnium moralium Virtutum nobiliſſima.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>The Second Edition,</hi>
+            </p>
+            <p>By <hi>P. A.</hi> Gent.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. L.</hi> for <hi>Luke Meredith,</hi> at the <hi>Star</hi> in St. <hi>Paul</hi>'s <hi>Church-Yard,</hi> 1696,</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:172435:5"/>
+            <p>IMPRIMATUR,</p>
+            <p>
+               <hi>Liber cui Titulus</hi> [A New-Years Gift; or Advice to a God ſon.]</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Nov.</hi> 26. 1687.</date>
+               </dateline>
+               <signed>Guil. Needham.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb n="5" facs="tcp:172435:5"/>
+            <head>TO THE Hopeful young Gentleman <hi>T. C.</hi> Eſquire.</head>
+            <p>THE ſerious conſideration of the dreadful danger to mens ſouls by reaſon of vicious and ſinful Cuſtoms and Habits contracted in youth, which being confirmed by a long continuance in a debauched courſe of Life, renders their Conver<g ref="char:EOLhyphen"/>ſion and Reformation very diffi<g ref="char:EOLhyphen"/>cult, if not next to impoſſible, as the Prophet ſpeaks, <hi>Jer. xiij. 23. Can the Aethiopian change his skin, or the Leopard his ſpots? then may ye alſo do good, that are accuſtomed to do evil;</hi> made me ſenſible, that the only
+<pb n="6" facs="tcp:172435:6"/>
+way to prevent this great Miſ<g ref="char:EOLhyphen"/>chief muſt be by engaging Per<g ref="char:EOLhyphen"/>ſons betimes in their young and tender Years, in Vertue and true Goodneſs, by means of religious and prudent Education, Inſtru<g ref="char:EOLhyphen"/>ction and Advice: And there<g ref="char:EOLhyphen"/>fore I conceived it not to be be<g ref="char:EOLhyphen"/>ſides my Duty (next to my own Children) to indeavour to pre<g ref="char:EOLhyphen"/>vent this Evil and Danger fall<g ref="char:EOLhyphen"/>ing upon my only God-ſon now re<g ref="char:EOLhyphen"/>maining alive, and capable of Advice, and that therein (I act<g ref="char:EOLhyphen"/>ing within my own Province) it could not be imputed to me as a Crime. But, Sir, now ſeeing this Diſcourſe is likely to be made more publick than was at firſt intended, I could not well find out one more ſuitable, to whom to dedicate it, than your ſelf, who are a Gentleman of ſuch great Hopes, as to be in
+<pb n="7" facs="tcp:172435:6"/>
+time, one of the <hi>Vertuoſi</hi> of the Age you live in; who, I doubt not, will make it your Study and Care, by your Life and Conver<g ref="char:EOLhyphen"/>ſation, to refute that bold Aſſer<g ref="char:EOLhyphen"/>tion of him who once ſaid, <hi>O vir<g ref="char:EOLhyphen"/>tus, quaeſivi te ut rem, ſed tantum merum nomen es!</hi> For certainly there is true Gold in the World, although there is a great deal of counterfeit Metal like it. I ſhall ſay no more, leaſt it may prove Offenſive to you, whoſe Care, I verily believe, will be to be rather Good than Great; who will have a greater Deſire to be uſeful in your Generation to ſerve your Prince and Country, than to be talk'd of in the World. Thus heartily wiſhing to you the Completion of all Happineſs, which only conſiſts in a religious and vertuous Life here, and at Death to be made
+<pb n="8" facs="tcp:172435:7"/>
+more Happy; tranſlated hence into heavenly Manſions, thoſe Receptacles of Vertuous, Noble and Purified Souls, in the high<g ref="char:EOLhyphen"/>eſt Heavens, there to be taken up with the holy and excellent Imployments of the bleſſed Angels, for evermore: I am,</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your affectionate Friend and humble Servant, <hi>P. A.</hi>
+               </signed>
+               <dateline>
+                  <date>Decemb. <hi>10. 1687.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="9" facs="tcp:172435:7"/>
+            <head>A <hi>New-Years Gift:</hi> OR, ADVICE TO A GOD-SON.</head>
+            <opener>
+               <salute>God ſon,</salute>
+            </opener>
+            <p>IN regard you have own'd me your God-father, I think therefore you do not doubt but that I per<g ref="char:EOLhyphen"/>formed that Office for you in the Face of the Chriſtian Con<g ref="char:EOLhyphen"/>gregation. So that if that kind of Right and Intereſt I have
+<pb n="10" facs="tcp:172435:8"/>
+in you, do it not, yet at leaſt, the Obligation of Chriſtian Du<g ref="char:EOLhyphen"/>ty, puts me upon this preſent Trouble of tendering to you my Chriſtian Advice and Coun<g ref="char:EOLhyphen"/>ſel; which being out of my Love to you, I hope it will not be ungrateful and unpleaſing; (for none but ill Natures can be ſo unworthy, as to reject the Advices of an affectionate Friend.) You are to know, God-ſon, That I was your <hi>Proxie</hi> in your place and ſtead, to an<g ref="char:EOLhyphen"/>ſwer for you, (you being not able to anſwer for your ſelf) <hi>That you did renounce the De<g ref="char:EOLhyphen"/>vil and all his Works, the Pomps and Vanities of this wicked World, the ſinful Luſts of the Fleſh: That you did be<g ref="char:EOLhyphen"/>lieve all the Articles of the Chriſtian Faith; And that you would keep God's holy Will and
+<pb n="11" facs="tcp:172435:8"/>
+Commandments, and walk in the ſame all the Days of your Life,</hi> as you have acknowledged in your Catechiſm, in which I was inſtrumental, in the ſolemn Dedication of you to God and his Service, to be the Diſciple of the ever bleſſed Jeſus; to your Entrance upon your ho<g ref="char:EOLhyphen"/>ly Chriſtian Profeſſion, and the initiating you in his ho<g ref="char:EOLhyphen"/>ly Catholick Church, of which the preſent Church of <hi>England</hi> is a Part; in which Church you being born, were baptized. Now, God ſon, although I queſtion not, but by the Chri<g ref="char:EOLhyphen"/>ſtian Care of your Parents, you have been already inſtructed in the Firſt Principles of your ho<g ref="char:EOLhyphen"/>ly Religion contained in our Church-Catechiſm (who, doubt<g ref="char:EOLhyphen"/>leſs are no leſs obliged to pro<g ref="char:EOLhyphen"/>mote your Chriſtianity, than if
+<pb n="12" facs="tcp:172435:9"/>
+you had had no God-fathers and God-mothers:) But never<g ref="char:EOLhyphen"/>theleſs it many times falls out, that our Parents are remiſs and negligent herein, therefore our Mother, the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> hath ſtrictly impoſed this Duty of catechiſing and in<g ref="char:EOLhyphen"/>ſtructing all young Perſons her Children, in their Chriſtianity, upon all her Prieſts and Mi<g ref="char:EOLhyphen"/>niſters. Therefore for your Welfare, God-ſon, after my hearty Prayers to God for you, give me leave, with Freedom and Earneſtneſs, to exhort you to account this happy Privilege of your Chriſtianity, to be the greateſt Bleſſing and Happineſs that a Man or Woman (born into the World) are capable of; for the Goſpel, or glad Ti<g ref="char:EOLhyphen"/>dings of Salvation by Jeſus Chriſt, was the great Redemp<g ref="char:EOLhyphen"/>tion
+<pb n="13" facs="tcp:172435:9"/>
+and Happineſs to a ſin<g ref="char:EOLhyphen"/>ful, degenerate and miſerable World: Now you muſt know, God ſon, That God (having created Man) made a Covenant and Agreement with him, to this purpoſe; That if he con<g ref="char:EOLhyphen"/>tinued in Obedience to God, That both that Knowledge of his Duty, and that Strength of Soul and Mind he then enjoyed (in his Eſtate of Innocency and Happineſs) ſhould be con<g ref="char:EOLhyphen"/>tinued to him, and that he ſhould never die, but be hap<g ref="char:EOLhyphen"/>py for ever: But on the other ſide, if he ſinn'd and diſobeyed God, then both he and all his Poſterity ſhould loſe that Knowledge, and that perfect Strength, and be ſubject to Death, both Temporal and E<g ref="char:EOLhyphen"/>ternal. But our Firſt Parent <hi>Adam</hi> diſobeyeth God, and ſo
+<pb n="14" facs="tcp:172435:10"/>
+brings a Curſe on himſelf and all his Poſterity, (they loſing both their Knowledge of, and Strength to perform their Du<g ref="char:EOLhyphen"/>ty; being both ignorant and weak, having a Backwardneſs to all Good, and an Aptneſs to all Evil) and alſo Death Tem<g ref="char:EOLhyphen"/>poral and Eternal at laſt. All Mankind being now in this mi<g ref="char:EOLhyphen"/>ſerable Condition of Bondage and Slavery, to Sin and Sa<g ref="char:EOLhyphen"/>tan, Death and Hell; God was pleaſed to make a Second Co<g ref="char:EOLhyphen"/>venant of Grace and Mercy with loſt Man, and therein pro<g ref="char:EOLhyphen"/>miſes to ſend his Son (that Seed of the Woman which ſhould break the Serpents Head) who ſhould be a King, Prieſt, and Prophet to us: A King to rule us, a Prieſt to make an A<g ref="char:EOLhyphen"/>tonement for us with his Fa<g ref="char:EOLhyphen"/>ther, and to intercede for us;
+<pb n="15" facs="tcp:172435:10"/>
+and a Prophet to teach and inſtruct us in all things neceſ<g ref="char:EOLhyphen"/>ſary to our Happineſs, in the whole Will and Mind of God. Accordingly the Bleſſed Jeſus, in fulneſs of Time was ſent into the World from Heaven, to take our Nature upon him, to become Man, and ſo in our ſtead, as our Surety, then paid the Price of our Redemption, by ſhedding his moſt precious Blood upon the Croſs, offering up his Soul, a Sacrifice to God, to ſatisfy his Father's Juſtice, (of which great Sacrifice all the legal Sacrifices were Types, and as ſuch were acceptable with God, for he was the Lamb of God ſlain from the Beginning of the World) and by this means to reconcile us to God, to pro<g ref="char:EOLhyphen"/>cure to us the ſinful Offspring of ſinful <hi>Adam</hi> (upon our true
+<pb n="16" facs="tcp:172435:11"/>
+Repentance) a Pardon of all our Sins: (For he purchaſed a general Pardon to all the Re<g ref="char:EOLhyphen"/>bellious Sons of <hi>Adam,</hi> upon their Submiſſion and laying down their Arms, and ceaſing their Hoſtilities againſt Hea<g ref="char:EOLhyphen"/>ven, and becoming dutiful and obedient Subjects) and of the Servants of Sin and Slaves of Sa<g ref="char:EOLhyphen"/>tan (the greateſt Slavery in the World) to be made the Sons and Servants of God (whoſe Service is perfect Freedom) to be in ſome Meaſure reſtored to their firſt State of Innocence and Happineſs, to be made vertuous and holy, conformed to the Image of their heaven<g ref="char:EOLhyphen"/>ly Father; to enjoy his Friend<g ref="char:EOLhyphen"/>ſhip and Favour, and to be bleſſed by him here in this Life, and at Death to be tran<g ref="char:EOLhyphen"/>ſlated into the bleſſed Regions
+<pb n="17" facs="tcp:172435:11"/>
+of Happineſs above in Heaven; there to behold, love, contem<g ref="char:EOLhyphen"/>plate, praiſe and admire Him to all Eternity, with all his holy Angels.</p>
+            <p>Now, conſider ſeriouſly, God-ſon, Was not this great Love and good Will of God, in this great Contrivance and Work of our Redemption? And in his ſending his beloved Son into the World for the effecting the ſame? And was it not alſo great Love and condeſcending Goodneſs in the Son of God, the bleſſed Jeſus, to ſtoop from Heaven to Earth, to take up<g ref="char:EOLhyphen"/>on him the Nature of ſinful Man? To be born of a Woman, to live here upon Earth a mean and deſpicable Life, to be ha<g ref="char:EOLhyphen"/>ted, reviled, perſecuted (even while he went about deſigning and doing all the Good he
+<pb n="18" facs="tcp:172435:12"/>
+could, both to the Bodies and Souls of Men, and publiſhing the glad Tydings of Salvation to all the World, and by his divine Doctrine rectifying the great Errors, Miſtakes and De<g ref="char:EOLhyphen"/>luſions that the World lay un<g ref="char:EOLhyphen"/>der making a clear and full Diſcovery of what was Truth, and being the great Exemplar of all Vertue, Holineſs, true Worth and Goodneſs to all the World,) Being, notwithſtanding, herein expoſed to all the Malice and Rage of Men and Devils: And at laſt to lay down his precious Life by a ſhameful, ignomi<g ref="char:EOLhyphen"/>nious, painful and cruel Death of Crucifixion: Hereby per<g ref="char:EOLhyphen"/>fecting the Work of our Re<g ref="char:EOLhyphen"/>demption; That whoſoever would accept of this Salvation, and would believe in him, re<g ref="char:EOLhyphen"/>pent and be baptized, and ſo
+<pb n="19" facs="tcp:172435:12"/>
+become his faithful Diſciple, ſhould be ſaved.</p>
+            <p>Now, God-ſon, you being happily born of Chriſtian Pa<g ref="char:EOLhyphen"/>rents, were according to the holy Inſtitution of this bleſ<g ref="char:EOLhyphen"/>ſed Jeſus our Lord and Ma<g ref="char:EOLhyphen"/>ſter, and the conſtant Practice of his Church, baptized, and thereby initiated in his Church, and made a Member of the ſame (as I mentioned before) and ſo made not only capable of, but really partaker of this great Redemption and Salvati<g ref="char:EOLhyphen"/>on. It very much concerns you, now you are come to a competent Age of Underſtand<g ref="char:EOLhyphen"/>ing, to conſider how you ſtand obliged to God, and to be true and faithful to your baptiſmal Vow and Covenant, which now you muſt renew in your own Perſon (except you will
+<pb n="20" facs="tcp:172435:13"/>
+renounce your Chriſtianity) and think that you were obliged alſo to them who were aſſiſtant and inſtrumental in this chari<g ref="char:EOLhyphen"/>table Work of bringing you to this holy Baptiſm, and devo<g ref="char:EOLhyphen"/>ting and dedicating you to God, and to be the Diſciple of the bleſſed Jeſus Chriſt, you being thereby Partaker of all the Privileges and Benefits of the Goſpel. Now I beſeech you, with all Chearfulneſs and Ala<g ref="char:EOLhyphen"/>crity of Soul, reſolve forthwith to ratify and confirm this Ad<g ref="char:EOLhyphen"/>vantageous Contract and Vow, made for you (by your God-fathers and God-mothers) in your Minority and Nonage, and perform the ſame in your own Perſon, now you are of Capa<g ref="char:EOLhyphen"/>city, and abhor to profeſs, what you do not intend to practiſe.</p>
+            <p>In purſuance thereof be mo<g ref="char:EOLhyphen"/>deſt,
+<pb n="21" facs="tcp:172435:13"/>
+and humble, and teachable, be very ſollicitous to know and underſtand fully what your Chriſtianity means, and alſo what it requires of you: And abhor to be of the Number of them (too many in the World) who neglect that moſt where<g ref="char:EOLhyphen"/>in their chiefeſt and greateſt Care ſhould be, <hi>viz.</hi> Their Re<g ref="char:EOLhyphen"/>ligion; and by that means know little more of their Chriſtianity but the Name.</p>
+            <p>Firſt therefore, God-ſon, have recourſe, with humble Reve<g ref="char:EOLhyphen"/>rence of Heart and Body, to God in Prayer, and with great Fervency beg the Guidance of his Grace and Spirit, wherein your bleſſed Lord and Saviour hath furniſhed you with the moſt excellent Form compo<g ref="char:EOLhyphen"/>ſed by himſelf, which ſhould be a Pattern to all our Prayers,
+<pb n="22" facs="tcp:172435:14"/>
+and always to accompany them: But herein alſo your Mother the Church hath furniſhed you, as alſo other pious Men, eſpecially that moſt excellent Book, the <hi>whole Duty of Man,</hi> which, now I have men<g ref="char:EOLhyphen"/>tioned to you, let me recom<g ref="char:EOLhyphen"/>mend it to you as an Atten<g ref="char:EOLhyphen"/>dant to the ſacred Scriptures, in which, in the next place, I would adviſe you to be very Conver<g ref="char:EOLhyphen"/>ſant, I mean the Scriptures, with a ſpiritual Guide to direct you, and take you by the Hand, e<g ref="char:EOLhyphen"/>ſpecially in doubtful and diffi<g ref="char:EOLhyphen"/>cult places, and hearkening to good Sermons, and the learning and underſtanding the Princi<g ref="char:EOLhyphen"/>ples of your Religion, contain<g ref="char:EOLhyphen"/>ed in our Church Catechiſm; in which you ſhould requeſt your Parents and Friends to aſ<g ref="char:EOLhyphen"/>ſiſt and help you.</p>
+            <p>
+               <pb n="23" facs="tcp:172435:14"/>And conſider, God-ſon, Where<g ref="char:EOLhyphen"/>as in your Baptiſmal Vow you renounced <hi>The Devil and all his Works, the Pomps and Va<g ref="char:EOLhyphen"/>nities of this wicked World, and all the ſinful Luſts of the Fleſh,</hi> That is to ſay, all Acts of Sin and Diſobedience to the Divine Laws (for Sin is the Tranſgreſſion of God's Law) as alſo all the vain and evil Cuſtoms of the World, the Pride, Exceſs and Vanity of worldly and wicked Men, to<g ref="char:EOLhyphen"/>gether with the gratifying of your carnal and ſenſual De<g ref="char:EOLhyphen"/>ſires and Appetites, in oppoſi<g ref="char:EOLhyphen"/>tion to thoſe Reſtrictions and Rules God hath ſet us. And whereas, in the next place, you promiſe to believe all the Ar<g ref="char:EOLhyphen"/>ticles of the Chriſtian Faith, briefly ſummed up in the Apo<g ref="char:EOLhyphen"/>ſtles Creed, in which is com<g ref="char:EOLhyphen"/>prehended
+<pb n="24" facs="tcp:172435:15"/>
+the Knowledge and Belief of all thoſe Truths of Chriſtianity, neceſſary to be known by us, to be the Guide of our Lives, it being the Foun<g ref="char:EOLhyphen"/>dation of all Chriſtian Practice. It is very needful to have your Mind well inſtructed therein: For without this Foundation be well laid, the Superſtructure thereupon can never ſtand, but will come to nothing; Igno<g ref="char:EOLhyphen"/>rance herein is the Mother of Error: He that underſtands a<g ref="char:EOLhyphen"/>miſs, concludes worſe, and Er<g ref="char:EOLhyphen"/>ror is endleſs, as one ſpeaks, and as Dr. <hi>Sibs</hi> long ſince well ob<g ref="char:EOLhyphen"/>ſerved, <hi>Whoſoever is corrupt in Faith, is corrupt in Obedience in that Degree. Evil Opinions hreed evil Life:</hi> For as Truth is from above, the Offspring of God, ſo Error is from beneath from the great Deceiver, the
+<pb n="25" facs="tcp:172435:15"/>
+Father of Lyes the Devil. <hi>There<g ref="char:EOLhyphen"/>fore nothing is ſo much worth as a Mind well inſtructed,</hi> ſaith the Son of <hi>Syrach, Eccleſ.</hi> 26.14.</p>
+            <p>And Miſtakes in things of Religion are of moſt dreadful Danger to you, wherefore it very much concerns you to be well inſtructed with good and ſound Principles: True Piety being the Conſequent of a ſound and orthodox Faith. And whereas you promiſe to keep God's holy Will and Com<g ref="char:EOLhyphen"/>mandments, and therein to per<g ref="char:EOLhyphen"/>ſiſt to your Lives end: It is moſt neceſſary you ſhould know them and their true Sence and Meaning, that ſo you may avoid the Ill they forbid, and do the Good they command you, which are briefly, yet ful<g ref="char:EOLhyphen"/>ly contained in the Expoſition
+<pb n="26" facs="tcp:172435:16"/>
+ſet down in your Catechiſm, which deſerves your frequent and ſerious Conſideration.</p>
+            <p>And as ſoon as convenient Opportunity is offered have Re<g ref="char:EOLhyphen"/>courſe to Confirmation by the Hands of the Biſhop, there to renew ſolemnly your baptiſmal Vow and Covenant, and re<g ref="char:EOLhyphen"/>ceive the Benefit of the Pray<g ref="char:EOLhyphen"/>ers of the Congregation, and of his Prayers and Bleſſing alſo. For as a worthy Divine ob<g ref="char:EOLhyphen"/>ſerves, When Men have ſo<g ref="char:EOLhyphen"/>lemnly addicted themſelves to the Chriſtian Religion, and made it their own Act by a voluntary and publick Choice, it will ordinarily have a great Influence upon them in Mo<g ref="char:EOLhyphen"/>deſty, Honour and Reputation as well as Conſcience, that they ſhall not eaſily go back from it and renounce it.</p>
+            <p>
+               <pb n="27" facs="tcp:172435:16"/>And if you have not a con<g ref="char:EOLhyphen"/>venient Opportunity for Con<g ref="char:EOLhyphen"/>firmation, take the greater Care to fit your ſelf the ſooner for the holy Sacrament of the Body and Blood of our Savi<g ref="char:EOLhyphen"/>our, and there renew ſolemnly you baptiſmal Vow and Co<g ref="char:EOLhyphen"/>venant, and as ſoon as you have ſo renewed your Covenant and Vow, either at Confirmation or at receiving the Sacrament, I would adviſe you to enter it down in Writing in your Bible, or ſome other Book of Devo<g ref="char:EOLhyphen"/>tions and Prayers, in which you are often, if not daily conver<g ref="char:EOLhyphen"/>ſant: In Manner following.</p>
+            <p>
+               <hi>BE it remembred that I <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> did this <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Day of</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Anno Domini 16 <hi>ſolemnly renew my bap<g ref="char:EOLhyphen"/>tiſmal Vow and Covenant with
+<pb n="28" facs="tcp:172435:17"/>
+God, and did then ſeriouſly de<g ref="char:EOLhyphen"/>vote and reſign up my ſelf to his Service, from which, I am reſolved, by his Grace, never to depart, but to perſiſt in the ſame, and be a faithful Diſci<g ref="char:EOLhyphen"/>ple of my dear Saviour unto my Lives end; in Witneſs whereof (and that I may be mindful of it, and not forget it) I have here ſet down the ſame, and ſubſcribed my Name.</hi>
+            </p>
+            <p>And then ſubſcribe your Name thereunto: And often afterwards have recourſe to this Contract, Vow and Covenant you have made with God, and conſider it ſeriouſly, and often renew it at the holy Sacrament, as alſo at convenient times read both the Church Office and Prayers at Baptiſm, and at Confirmation.</p>
+            <p>
+               <pb n="29" facs="tcp:172435:17"/>But here let me adviſe you to have a great Care that your religious Warmth and early Seriouſneſs, do not carry you beyond the plain and known Meaſures of your Duty. Let your baptiſmal Vow, your Du<g ref="char:EOLhyphen"/>ty to God and your Neigh<g ref="char:EOLhyphen"/>bour, as ſet down in the Cate<g ref="char:EOLhyphen"/>chiſm, be chiefly in your Mind, and ſuffer not your ſelf (mark it and remember) I ſay, ſuffer not your ſelf to deviſe ſome new and particular Rules to your ſelf, which, in your Zeal, you'll be apt to think neceſſary, and then be ready to tie your ſelf up by a ſolemn Vow to ob<g ref="char:EOLhyphen"/>ſerve them. This Forwardneſs in making Vows is ordinary in all beginners in Religion, and eſpecially in young People. And ſuch Vows (which are no part of Duty, but proceed uſually
+<pb n="30" facs="tcp:172435:18"/>
+from too much Heat, and too little Conſideration: I have heard, to become afterwards great Snares to thoſe who made them, robbing them of the Comforts of ſincere Indeavours to keep a good Conſcience, by being brought under an Obli<g ref="char:EOLhyphen"/>gation, which they had better have avoided, of doing ſuch and ſuch particular Acts of Religion, and with ſuch Cir<g ref="char:EOLhyphen"/>cumſtances as in themſelves are not neceſſary, and perhaps not convenient for them, when their own Condition of Life is altered, nay, perhaps were not ſo when they made their Vow. This I the rather caution you againſt, both for the Reaſon a<g ref="char:EOLhyphen"/>bove mentioned, That I con<g ref="char:EOLhyphen"/>ceive an early Piety is very apt to lead you this way; and be<g ref="char:EOLhyphen"/>cauſe I have heard ſome, whoſe
+<pb n="31" facs="tcp:172435:18"/>
+Scruples have been ſo great up<g ref="char:EOLhyphen"/>on the breaking of theſe Vows, and coming ſhort of that Strictneſs and height of Reli<g ref="char:EOLhyphen"/>gion in thoſe particular Tasks which they had impoſed upon themſelves, as to be ready to fall into Deſpair: Whereas had their Souls been free from ſuch a Bondage, they would have made great Progreſs in vertu<g ref="char:EOLhyphen"/>ous Living, and not have wanted the unſpeakable Com<g ref="char:EOLhyphen"/>fort of a good Conſcience. Wherefore I adviſe you hear<g ref="char:EOLhyphen"/>tily that in all theſe Religious Warmths, you never bind up your ſelf by any haſty Vows, but conſult your ſpiritual Guide, and take his Directions. For ſuch Aſſiſtance is every whit as neceſſary for the well govern<g ref="char:EOLhyphen"/>ing our Fits of Heat, as it is for curing our Coldneſs in the
+<pb n="32" facs="tcp:172435:19"/>
+Duties of Religion. And do not think my Advice in theſe Matters to be needleſs or ſu<g ref="char:EOLhyphen"/>perfluous: For Religion is the grand Concern of our Lives, and therefore not to be trifled and played with, as (it is to be feared) moſt do among us now a-days in the World. I hope I need not uſe many Ar<g ref="char:EOLhyphen"/>guments or Motives to per<g ref="char:EOLhyphen"/>ſwade you to that which is the grand Concern of your Life, and in which conſiſts your greateſt Intereſt and Advan<g ref="char:EOLhyphen"/>tage. I need not uſe many Words to perſwade you to be an honeſt Man, and to be as good as your Word, as your ſolemn Vow and Oath made to God. I hope you will ſay with holy David, <hi>Pſal.</hi> 101.4. <hi>I hate the ſin of <g ref="char:V">Ʋ</g>nfaithfulneſs, there ſhall no ſuch thing cleave
+<pb n="33" facs="tcp:172435:19"/>
+unto me;</hi> and when your faith<g ref="char:EOLhyphen"/>fulneſs herein, is to be true to your own higheſt and greateſt Intereſt and Advantage. Fur<g ref="char:EOLhyphen"/>ther, conſider ſeriouſly the Worth and Excellency of the Rules and Precepts of the Chriſtian Religion; which, in ſhort, you know, is, the loving God with all our Hearts and Minds, with all our Souls, and with all our Strength. And in the next place, loving our Neighbours as our ſelves, as you are taught in our Church Ca<g ref="char:EOLhyphen"/>techiſm. Now one would think there ſhould need no Argu<g ref="char:EOLhyphen"/>ment to perſwade you to be in Love with God, the moſt ex<g ref="char:EOLhyphen"/>cellent, amiable, ſoul-ſatisfying Object in the World, the great<g ref="char:EOLhyphen"/>eſt and moſt reſplendent Beau<g ref="char:EOLhyphen"/>ty you can ever have your Mind fixed upon in the whole
+<pb n="34" facs="tcp:172435:20"/>
+Univerſe; yea, <hi>The Beauty of all the Beauties and Excellen<g ref="char:EOLhyphen"/>cies in the World,</hi> Wiſdom 13.3. For the firſt Author of Beau<g ref="char:EOLhyphen"/>ty hath created them: And as the Prophet <hi>Zachariah</hi> ſpeak <hi>Zach.</hi> 9.17. <hi>How great is his Goodneſs, and how great is his Beauty?</hi> And as the Author of the Book of <hi>Wiſdom,</hi> Chap. 11. Verſe 23, 24, 26. ſets forth the Goodneſs and Excellency of God. <hi>But thou</hi> (ſaith he) <hi>haſt Mercy upon all, and winkeſt at the Sins of Men, becauſe they ſhould amend: for thou loveſt all things that are, and abhorreſt nothing which thou haſt made. How could any thing have en<g ref="char:EOLhyphen"/>dured if it had not been thy Will, or been preſerved by thee? But thou ſpareſt all, for they are thine, O Lord, thou lover of Souls.</hi> Now if under the Law
+<pb n="35" facs="tcp:172435:20"/>
+God appeared ſo good and Gracious, that he was ſtiled the Lover of Souls, how Re<g ref="char:EOLhyphen"/>ſplendent and Illuſtrious muſt needs appear the divine Good<g ref="char:EOLhyphen"/>neſs to us under the Goſpel, when God ſpared not his own Son, but hath given him up for us all, <hi>Rom.</hi> 8.32. Yea, ſo loved the World, that he ſent his only begotten Son into the World, that whoſoever believ<g ref="char:EOLhyphen"/>eth in him ſhould not Periſh, but have eternal Life. How ſhould we Chriſtians love God with the ſtrongeſt and greateſt Affections imaginable? And in an ecſtacy of Joy loudly pro<g ref="char:EOLhyphen"/>claim him to be the Lover of Souls indeed; and cry out with holy <hi>David, O love the Lord ye his Saints,</hi> &amp;c. Pſal. 31.23.</p>
+            <p>In the next place, as to our Neighbour, our Religion teach<g ref="char:EOLhyphen"/>es
+<pb n="36" facs="tcp:172435:21"/>
+us to do unto all Men, as we would they ſhould do to us; (that is to ſay) to honour and reverence our Parents, to be Humble towards all our Supe<g ref="char:EOLhyphen"/>riours, to be Loyal and Faith<g ref="char:EOLhyphen"/>ful to our Prince and Sove<g ref="char:EOLhyphen"/>reign, obedient to his Laws and Government; to ſubmit our ſelves to all our Governours, Teachers, ſpiritual Paſtors and Maſters: To be Juſt and Ho<g ref="char:EOLhyphen"/>neſt in all our Dealings, friend<g ref="char:EOLhyphen"/>ly and peaceable towards all our Neighbours; to be Chari<g ref="char:EOLhyphen"/>table and ready to do all the Good we are able both to the Bodies and Souls of thoſe who ſtand in need of it: To be So<g ref="char:EOLhyphen"/>ber, Temperate and Chaſt, and to follow Peace with all Men, and Holineſs: And in reſpect to the Duties both of the Firſt and Second Table, to follow
+<pb n="37" facs="tcp:172435:21"/>
+the Apoſtles comprehenſive Di<g ref="char:EOLhyphen"/>rection, <hi>Philip.</hi> 4.8. <hi>Whatſoever things are true, whatſoever things are honeſt, whatſoever things are juſt, whatſoever things are pure, whatſoever things are lovely, whatſoever things are of good Report; if there be any Ver<g ref="char:EOLhyphen"/>tue, and if there be any Praiſe think on theſe things.</hi> So that this moſt excellent Religion, muſt needs make its Votaries the beſt, the moſt lovely Perſons in all the Earth, even like unto their Lord and Maſter, the e<g ref="char:EOLhyphen"/>ver bleſſed Jeſus, who himſelf was the expreſs Image of his Father, God bleſſed for ever: For this is the great End of Re<g ref="char:EOLhyphen"/>ligion (as a late Author diſ<g ref="char:EOLhyphen"/>courſeth) <hi>viz. The purifying and refining the Nature of Man, correcting the wild Ex<g ref="char:EOLhyphen"/>orbitances of Paſſion and Luſt,
+<pb n="38" facs="tcp:172435:22"/>
+by which he is ſo eſtranged from God, and diſabled to ar<g ref="char:EOLhyphen"/>rive at the Life of Vertue and Goodneſs, it reſtores us to that primitive State of Happineſs that we loſt in</hi> Adam.</p>
+            <p>Thus, in ſhort, you have the true Repreſentation of the Chriſtian Religion, than which nothing can be more excellent, as to its Laws and Rules of Life: And altho' it is true, it is a Yoke and Reſtraint, yet (as our Lord and Maſter teſtifies) his Yoke is eaſy, and his Bur<g ref="char:EOLhyphen"/>then light. His excellent Re<g ref="char:EOLhyphen"/>ligion is not a ſowre melancho<g ref="char:EOLhyphen"/>ly Thing, as is falſly repre<g ref="char:EOLhyphen"/>ſented by ignorant and wicked Men: It is not an Enemy to your Mirth, Pleaſure and De<g ref="char:EOLhyphen"/>light in this Life (as one hath well obſerved) <hi>you may Sing, Rejoice and be Merry, God de<g ref="char:EOLhyphen"/>nies
+<pb n="39" facs="tcp:172435:22"/>
+you nothing but Sin, which ſpoils your Joys and daſheth your Mirth, and ſooner or later muſt be ſadly accounted for:</hi> As the Pious Mr. <hi>George Herbert</hi> uſed to ſay, <hi>Religion doth not baniſh Mirth, but only moderates and ſets Bounds to it; it is the only way to render our Delights pure and real, and ſatisfactory:</hi> For do you imagine that any one can ſo heartily ſing and re<g ref="char:EOLhyphen"/>joice as he that hath God his Friend, who lives under the Smiles of Heaven: Indeed it is the Voice of all Men, who will ſhew us any Good? <hi>Omnes tendunt ad gaudium, ſed unde magnum &amp; ſtabile conſequan<g ref="char:EOLhyphen"/>tur ignorant,</hi> ſaith the Heathen <hi>Seneca.</hi> Every Man would ar<g ref="char:EOLhyphen"/>rive at Joy and Contentment, but how to obtain that which is great, ſtable and laſting, they
+<pb n="40" facs="tcp:172435:23"/>
+know not. All Men ſeek Hap<g ref="char:EOLhyphen"/>pineſs and Satisfaction, and Tranquility of Mind in this Life: Now behold, here it is only to be had, in a vertuous and chriſtian Life; for if we ſearch the whole Univerſe, where elſe ſhall we find it? For we ſee by daily Experience that when Men have run through all the Felicities this World can afford them, Riches, Ho<g ref="char:EOLhyphen"/>nours, Pleaſures; at laſt, when they come to be Wiſe and Se<g ref="char:EOLhyphen"/>rious at their Deaths, (for Death being a ſerious thing in<g ref="char:EOLhyphen"/>deed, it makes them that have played the Fool all their Lives to become then ſerious &amp; wiſe:) Then they all (if they have their Senſes) loudly proclaim with <hi>Solomon,</hi> That <hi>all is Vani<g ref="char:EOLhyphen"/>ty and vexation of Spirit.</hi> And as the wiſe Man diſcourſeth,
+<pb n="41" facs="tcp:172435:23"/>
+               <hi>Wiſdom</hi> 5.7, 8, 9. They will ſay, <hi>We alas! wearied our ſelves in the Way of Wickedneſs and Deſtruction. What hath Pride profited us; Or what good hath Riches with our Vaunting brought us? All theſe things are paſſed away like a Shadow, and as a Poſt that haſteth by,</hi> &amp;c. <hi>And they repenting and groaning for Anguiſh of Spi<g ref="char:EOLhyphen"/>rit, ſhall ſay within themſelves (of the Righteous Man) This is he whom we had ſometimes in Deriſion and a Proverb of Re<g ref="char:EOLhyphen"/>proach, we Fools accounted his Life Madneſs, and his End to be without Honour: How is he numbred among the Children of God, and his Lot is among the Saints?</hi> 3, 4, 5. Verſes of the ſame Chapter. But certain<g ref="char:EOLhyphen"/>ly true Happineſs, and Satiſ<g ref="char:EOLhyphen"/>faction and Pleaſure is to be had
+<pb n="42" facs="tcp:172435:24"/>
+only in a good, vertuous and chriſtian Life, which leads us to, and fixeth us upon that <hi>ſummum bonum,</hi> God: A good Conſcience being a continual Feaſt, that only a good Man, a good Chriſtian always carries about him: For as <hi>Solomon</hi> ſays truly, <hi>God's Ways are Ways of Pleaſantneſs, and all his Paths are Peace,</hi> Prov. 3.17. A good Chriſtian is the only Man that can with an humble and chearful Confidence look up to God as his almighty Protector and Defender, as his gracious Father, under the Light of whoſe Countenance he doth e<g ref="char:EOLhyphen"/>very day Rejoice: For as one well obſerves, Vertue is the Tenure by which we hold of Heaven, without this we are but as Out-laws, who cannot claim Protection. Thus as to
+<pb n="43" facs="tcp:172435:24"/>
+the Proviſion for a Chriſtian's Welfare in this World. And as the Wicked at their latter End ſee (altho' too late) their Folly, and then Lament and Bewail their Rebellions and Wickedneſs againſt God, with great Horrour and Conſterna<g ref="char:EOLhyphen"/>tion of Heart, and then not being able to fly from them<g ref="char:EOLhyphen"/>ſelves, lie down in Sorrow, forewarning others of their Fol<g ref="char:EOLhyphen"/>lies. So, on the other Hand, theſe faithful Diſciples of their bleſſed Lord and Saviour Jeſus Chriſt, when they come to die, if you ſhould then ask them whe<g ref="char:EOLhyphen"/>ther ever they repented of their faithful ſerving God, in walk<g ref="char:EOLhyphen"/>ing in that ſeeming ſtreight and narrow Way of Vertue and true Chriſtianity? And they will preſently tell you, That he was the beſt Maſter in the
+<pb n="44" facs="tcp:172435:25"/>
+World, and that his Service was perfect Freedom; That there is no ſuch Life of Pleaſure, Joy and Satisfaction, and true Tran<g ref="char:EOLhyphen"/>quility and Peace of Mind, as in an honeſt ſincere Chriſtian Life. <hi>Eccleſiaſt.</hi> 2.10, 11. They will ſay with the Son of <hi>Syrach, Look at the Generations of old, and ſee, did ever any truſt in the Lord and was confounded? Or did ever any abide in his Fear and was forſaken? Or whom did he ever deſpiſe that called upon him?</hi>
+            </p>
+            <p>
+               <hi>For the Lord is full of Com<g ref="char:EOLhyphen"/>paſſion and Merciful, long Suf<g ref="char:EOLhyphen"/>fering and very pitiful, and forgiveth Sins, and ſaveth in time of Affliction.</hi> You will hear even the beſt of them be<g ref="char:EOLhyphen"/>wailing much their own Un<g ref="char:EOLhyphen"/>profitableneſs, and that they have done ſo good a Maſter ſo
+<pb n="45" facs="tcp:172435:25"/>
+little Service; and you will find them rejoicing in God, even when grim Death looks them full in the Face, and they re<g ref="char:EOLhyphen"/>turning him a Smile of Diſdain for his Frowns: And to ſpeak the Truth, they are ſo full of Joy they are not able to expreſs it in Words, it being better felt than expreſſed, and what they have all along met with in their holy Chriſtian Courſe. For what great Encouragements have they had daily alſo from their clear and full Proſpect of a glorious celeſtial Crown a<g ref="char:EOLhyphen"/>waiting for them in the other World? But this future, great and tranſcendent Felicity (that neither Eye hath ſeen, nor Ear hath heard, nor ever entered into the Heart of Man to con<g ref="char:EOLhyphen"/>ceive) how can they, or I, re<g ref="char:EOLhyphen"/>preſent it to you? <hi>O how great
+<pb n="46" facs="tcp:172435:26"/>
+is thy Goodneſs which thou haſt laid up for them that fear thee,</hi> &amp;c. Pſal. 31.19.</p>
+            <p>Now, God-ſon, you are enter'd into their Chriſtian Race, and may become as Happy as they, if you will but follow their Example, and walk in their Steps, you may aſſuredly par<g ref="char:EOLhyphen"/>take of their Satisfactions and Comforts in this Life, and alſo of their Reward and Crown in the other World. Conſider the ſeaſonableneſs of the time of your Youth, which is the moſt acceptable time with God, now you may aſſure your ſelf the golden Scepter is held forth: How pleaſing muſt it needs be to the Divine Majeſty of Hea<g ref="char:EOLhyphen"/>ven, the ſupreme Lord the Cre<g ref="char:EOLhyphen"/>ator, to have the Firſt Born of his Creatures, their Youth and Strength, their Firſt virgin
+<pb n="47" facs="tcp:172435:26"/>
+Thoughts and Affections de<g ref="char:EOLhyphen"/>voted and dedicated to him and his Service? O how rejoi<g ref="char:EOLhyphen"/>cingly will he now receive you, yea embrace you in the Arms of his tendereſt Affections? And how may you now exſpect the all-powerful Aſſiſtances of his Grace, the ſtrongeſt Gales of his Spirit to aſſiſt your In<g ref="char:EOLhyphen"/>deavours? Now, what wiſe Man (think you) who having a long and difficult Voyage to take, wherein he is like to meet with a ſtrong Tide and Cur<g ref="char:EOLhyphen"/>rent againſt him, but will be very ready to take the Advan<g ref="char:EOLhyphen"/>tage of Wind and Weather for his Help and Furtherance in his Voyage? Now God hath aſſured to you the Gift of his Spirit, if you earneſtly beg it of him, and make diligent uſe of it, both to encourage, aſſiſt
+<pb n="48" facs="tcp:172435:27"/>
+and comfort you in your Chri<g ref="char:EOLhyphen"/>ſtian Race, that at laſt you may gain the Celeſtial Crown.</p>
+            <p>How ſeaſonable alſo will this Time of your Youth, Health, Strength and Vigour be to your ſelf, for the eaſy effecting and accompliſhing this great Work? Now before you have taſted the Pleaſures of Sin, or however, before you have taken too deep Draughts of that poyſonous and perni<g ref="char:EOLhyphen"/>cious Potion of Vice, and Sin before you have contracted E<g ref="char:EOLhyphen"/>vil Habits (thoſe Cuſtoms in Sin, which are as a Second Nature) and before you are immerſed in the Cares and Troubles of this Life, now to receive the Impreſſion (on your tender and pliable Minds) of Heaven, of Vertue and the Love of God.) O, have therefore
+<pb n="49" facs="tcp:172435:27"/>
+a more eſpecial Care at this time, of thoſe dangerous Rocks of Eaſe and Pleaſure, and ill Example, upon which ſo many are daily ſhipwreck'd in their Youth and tender Years; here<g ref="char:EOLhyphen"/>in take the Advice lately gi<g ref="char:EOLhyphen"/>ven by a worthy Author to young Perſons. <hi>The chiefeſt Inſtances of Vice</hi> (ſaith he) <hi>con<g ref="char:EOLhyphen"/>ſiſt in the extravagant Affecta<g ref="char:EOLhyphen"/>tion of ſenſual Delights and Pleaſures. The Judgment of Youth is raw, nor hath its Rea<g ref="char:EOLhyphen"/>ſon attained to any Conſiſtency, is eaſily impoſed upon by Shews and Appearances of things, it ſees but the Surface of them, the Inclinations of Senſe are ſtrong and prevalent, and the Powers of Reaſon weak and im<g ref="char:EOLhyphen"/>perfect, are eaſily fired and captivated by any thing that propoſeth preſent Gratification
+<pb n="50" facs="tcp:172435:28"/>
+and ſatisfying its carnal Ap<g ref="char:EOLhyphen"/>petites.</hi> It therefore very much concerns you, not to truſt to your own Judgment, but take in the Advice of wiſer Heads than your own, and now to labour to mortify and ſubdue your Luſts and carnal Appe<g ref="char:EOLhyphen"/>tites and Paſſions, and to get the Conqueſt over them be<g ref="char:EOLhyphen"/>times, as the Son of <hi>Syrach</hi> adviſeth thee, <hi>Eccleſiaſt.</hi> 18.30, 32. <hi>Go not after thy Luſts, but refrain thy ſelf from thine Ap<g ref="char:EOLhyphen"/>petites. Take not Pleaſure in much good Chear,</hi> &amp;c.</p>
+            <p>Now let it be your great care to break off ſuch ſinful Cuſtoms you have contracted eſpecially thoſe of lying and ſwearing (too much abound<g ref="char:EOLhyphen"/>ing in young Perſons in our days.) Uſe not to make any manner of Lyes, for the Cuſtom
+<pb n="51" facs="tcp:172435:28"/>
+thereof is not good, as the Son of <hi>Syrach</hi> adviſeth thee, <hi>Ec<g ref="char:EOLhyphen"/>cleſiaſt.</hi> 7.13. <hi>And accuſtom not thy Mouth to ſwearing, neither uſe thy ſelf to the naming of the Holy one:</hi> As he further adviſeth; <hi>For a Man</hi> (ſaith he) <hi>that uſeth much ſwearing ſhall be filled with Iniquity, and the Plague ſhall never depart from his Houſe,</hi> &amp;c. Eccleſiaſt. 23.9, 11. I pray you conſider it well, and abominate and deteſt this horrible Sin of ſwear<g ref="char:EOLhyphen"/>ing and curſing, this blaſphe<g ref="char:EOLhyphen"/>mous Contempt of the divine Majeſty of Heaven, which in young Perſons may be well looked upon as the Seed of all Vice and Wickedneſs in them, to end in that Plague and Curſe before mentioned.</p>
+            <p>And in the next place en<g ref="char:EOLhyphen"/>gage and fix your Affections
+<pb n="52" facs="tcp:172435:29"/>
+ſtrongly upon God and things above; now a quarter part of the Pains and Labour will do the Buſineſs, which you muſt be forced elſe to uſe afterward, if you let paſs this beſt time; now ſtrike while the Iron is hot.</p>
+            <p>In reſpect of your Mortality. How ſeaſonable is this time to do this great and neceſſary Bu<g ref="char:EOLhyphen"/>ſineſs of Life? Conſider the Frailty and incertainty of your Life, which may more eſpecial<g ref="char:EOLhyphen"/>ly be compared in Youth to a Bubble, a Vapour, a Flower, quickly nipt in the Bud, when leaſt expected by your ſelf: Death is your great Enemy, who awaits for your Life every day, be therefore beforehand with him, and prepared againſt his Aſſaults, which only can be by making uſe of the preſent
+<pb n="53" facs="tcp:172435:29"/>
+time (which is only yours) to make your Peace with God, and to ſecure to your ſelf eter<g ref="char:EOLhyphen"/>nal Happineſs, that you may be made Holy and fit for Hea<g ref="char:EOLhyphen"/>ven; that when Death comes it may not be able to hurt you, but advantage you, in tranſla<g ref="char:EOLhyphen"/>ting you from this ſinful and troubleſome World into the Manſions of eternal Pleaſures and Delights above. This true Wiſdom of being Religious and Vertuous, will, in ſhort, make you live comfortably and die bravely.</p>
+            <p>God-ſon, you remember that ſaying in your Grammar, <hi>Mul<g ref="char:EOLhyphen"/>tum ſcire eſt vita Jucundiſſima,</hi> Wiſdom and Knowledge is the ſweeteſt Life of all. And the Son of <hi>Syrach, Eccleſiaſt.</hi> 40.20. will tell you, <hi>Wine and Mu<g ref="char:EOLhyphen"/>ſick rejoice the Heart, but the
+<pb n="54" facs="tcp:172435:30"/>
+Love of Wiſdom is above them both.</hi>
+            </p>
+            <p>Improve your Mind therein, now take Pains to acquire it: As one hath well obſerved, <hi>All Men deſire Knowledge, but they are unwilling to be at the Pains to get it.</hi> The wiſe Heathen <hi>Se<g ref="char:EOLhyphen"/>neca</hi> will tell you, <hi>The greater any Man's Knowledge is the greater and more perfect is his Mind.</hi> It's Knowledge makes us Men and not Years; and he goes on and extolleth the Knowledge and Contemplation of God, above all other Know<g ref="char:EOLhyphen"/>ledge. The Knowledge of God (ſaith he) is the moſt excellent Knowledge: He is the moſt ex<g ref="char:EOLhyphen"/>cellent Object; and therefore the Knowledge of him muſt needs be ſo. Nothing ſo much delights and perfects the Minds of Men as the Knowledge of
+<pb n="55" facs="tcp:172435:30"/>
+God; that's moſt Pleaſant, and miniſters greateſt Satisfaction to them; that quiets and lays to Reſt the Motions, and ſa<g ref="char:EOLhyphen"/>tisfies the Appetites of them, it alſo perfects and compleats them.</p>
+            <p>I need not recommend to you the knowledge of God and Religion, for he hath (you ſee) prevented me, done it to my hands: And not only get your Mind well inſtructed in your Chriſtian Religion, but conſider alſo that our Happi<g ref="char:EOLhyphen"/>neſs lies not in <hi>bonorum cogni<g ref="char:EOLhyphen"/>tione,</hi> but <hi>fruitione,</hi> not in knowing but in living anſwer<g ref="char:EOLhyphen"/>able to our Knowledge: As a great and learned Man ſaith, <hi>Veritatem Philoſophia quaerit, Theologia invenit, Religio poſſi<g ref="char:EOLhyphen"/>det:</hi> Religion Conſiſts in Pra<g ref="char:EOLhyphen"/>ctice. If ye know theſe things
+<pb n="56" facs="tcp:172435:31"/>
+happy are you if you do them as the holy Scripture teacheth us. <hi>If you love me</hi> (ſaith our bleſſed Lord and Maſter) <hi>keep my Commandments.</hi> Let me exhort you to live anſwerable to your holy Chriſtian Reli<g ref="char:EOLhyphen"/>gion in Communion with the Church of <hi>England</hi> (ſhe being a ſound part of the Catholick Church of Chriſt) and beware of ſuch as would ſeduce you from her Communion, for herein lies your Safety, to obey and be guided by them that have the Overſight of you, and are over you in the Lord, <hi>Heb.</hi> 13.17. and to eſteem them highly for their Works ſake, as the Apoſtle exhorts us 1 <hi>Theſ.</hi> 5.13. And tell them that ſhall at any time attempt to pervert you, That by an hear<g ref="char:EOLhyphen"/>ty Practice of the Religion as
+<pb n="57" facs="tcp:172435:31"/>
+you have been taught in the Church of <hi>England;</hi> you find you have attained to a Tem<g ref="char:EOLhyphen"/>per ſo like that of good Men, and even of our Lord Jeſus himſelf, as it is ſet down in Scripture; you find ſuch a ſuitableneſs in it, with all the Wants and Deſires of your Soul, ſuch Helps againſt your Infirmities, ſuch Comfort from diſcharge of your Duty, ſuch a Fear of doing any Ill either to Friend or Stranger, ſuch an hearty Inclination to do Good to all: As that if they ſhould teach you any other ways they muſt needs make you a worſe Man: Both more uneaſy to your ſelf, and more trouble<g ref="char:EOLhyphen"/>ſome, and perhaps, dangerous to others. And that therefore you reſolve, by God's Grace, to continue in the ſaid Holy
+<pb n="58" facs="tcp:172435:32"/>
+Church, which, as far as you can diſcern, by a Tryal of your own (and I am ſure Practice will convince you of this) makes Men as Happy in them<g ref="char:EOLhyphen"/>ſelves as uſeful to others, as they can be in this World. And that any other Communi<g ref="char:EOLhyphen"/>on which requires Men to pra<g ref="char:EOLhyphen"/>ctiſe otherwiſe muſt, as far as you underſtand, make them worſe. And therefore you can<g ref="char:EOLhyphen"/>not but think that you have more reaſon to hearken to the Advice of, and be guided by your Mother the Church of <hi>England,</hi> and her Paſtors ſhe hath appointed and ſet over you, than by any Strangers whatſoever. And in this hum<g ref="char:EOLhyphen"/>ble Submiſſion to the Church (wherein you were born and baptized, and from whom you received your Chriſtianity) and
+<pb n="59" facs="tcp:172435:32"/>
+in your Fidelity to her (if you ſhould happen by this means to be led into any Error, or Miſtake, as to Matters of Diſ<g ref="char:EOLhyphen"/>pute) it will be doubtleſs a very venial, or pardonable Crime in you, it being in an humble Submiſſion to the beſt Guide you have next the Scri<g ref="char:EOLhyphen"/>ptures. An Error, or Miſtake ariſing from Humility of Heart, and Diffidence in your ſelf, is a far leſs Crime than what a<g ref="char:EOLhyphen"/>riſes from Pride and ſelf-Con<g ref="char:EOLhyphen"/>fidence in Oppoſition to your ſpiritual Governours &amp; Guides, which God hath placed, and given them Authority over you; which our Sectaries have reaſon ſeriouſly to conſider of in our days.</p>
+            <p>God-ſon, Since the penning of the precedent Diſcourſe, meeting with theſe following
+<pb n="60" facs="tcp:172435:33"/>
+Verſes of a late Author, ſome<g ref="char:EOLhyphen"/>thing pertinent to my Diſ<g ref="char:EOLhyphen"/>courſe, I thought fit to add them to it, conſidering that with Youth the ſame Matter being cloathed in Verſe may be more acceptable than in Proſe.</p>
+            <lg>
+               <l>Do not miſpend thy golden Youth, and bring</l>
+               <l>The Droſs of thy old Age to ſerve thy King.</l>
+               <l>Do not neglect the Morning of thy Days,</l>
+               <l>And think the Evening fit thy God to praiſe.</l>
+               <l>God early muſt be ſought, the longer we</l>
+               <l>Perſiſt in Sin, the ſtronger Sin will be:</l>
+               <l>From Vice to Vertue turn, from bad to good;</l>
+               <l>The deeper ſtill he ſinks who ſtands in Mud.</l>
+               <l>
+                  <pb n="61" facs="tcp:172435:33"/>A Nail, the farther it is dri<g ref="char:EOLhyphen"/>ven in,</l>
+               <l>The harder is drawn out, and ſo is Sin.</l>
+               <l>None can foretel, how long the fatal glaſs</l>
+               <l>Shall run, or elſe how ſoon the Sand will paſs.</l>
+               <l>Delay no time; that Man will ſhrink and fear,</l>
+               <l>Who lays the Burthen on old Age to bear.</l>
+               <l>Becauſe the fooliſh Virgins came too late,</l>
+               <l>They Heaven loſt, for Chriſt had ſhut the Gate.</l>
+               <l>Should we be old, are we then ſure to ſtore,</l>
+               <l>Our Souls with Grace, which we refuſed before.</l>
+               <l>Through Mire and Dirt, who travels all the Day,</l>
+               <l>Will hardly go by Night a clean<g ref="char:EOLhyphen"/>er way.</l>
+               <l>
+                  <pb n="62" facs="tcp:172435:34"/>The Tenant which neglects th' appointed Day,</l>
+               <l>Forfeits his Leaſe, and fret his Landlord may.</l>
+            </lg>
+            <p>Unto which let me add what a worthy Divine ſpeaks, as very remarkable. <hi>It is ob<g ref="char:EOLhyphen"/>ſervable</hi> (ſaith he) <hi>that for the moſt part of good Men and Women, they are ſuch as had the Foundations of Piety laid in their Youth, and very few are found who were effectually reclaimed afterwards.</hi>
+            </p>
+            <p>Doubtleſs, God-ſon, there is nothing makes a Man honeſt, upright, ingenious, uſeful and truly recommends himſelf to the World and Society of Man<g ref="char:EOLhyphen"/>kind as Religion, and above all Religions the Chriſtian; which truly makes us like to God.</p>
+            <p>
+               <pb n="63" facs="tcp:172435:34"/>St. <hi>Chryſoſtom</hi> (as a late Au<g ref="char:EOLhyphen"/>thor preſents him) doth con<g ref="char:EOLhyphen"/>firm what I have ſaid herein. In one of his Homilies or Ser<g ref="char:EOLhyphen"/>mons, he ſpeaks thus. <hi>None labours ſo much that we ſhould be approved Great and Ingeni<g ref="char:EOLhyphen"/>ous, as God who made us, and therefore he doth us good often<g ref="char:EOLhyphen"/>times even againſt our Wills, and gives us many good things which we know not of,</hi> &amp;c.</p>
+            <p>In the next place it will not be improper to give you a ſhort Deſcription of Ingenui<g ref="char:EOLhyphen"/>ty of Mind, to let you know what it is, as a worthy Perſon hath deſcribed it, <hi>viz.</hi>
+            </p>
+            <p>We cannot (ſaith he) ſuppoſe the divine Wiſdom ſo much ſhort of humane, as not in his Intention to aſſign it to purpo<g ref="char:EOLhyphen"/>ſes worthy of it, theſe muſt re<g ref="char:EOLhyphen"/>late to God, our ſelves, or our Neighbours.</p>
+            <p>
+               <pb n="64" facs="tcp:172435:35"/>In Reſpect of God, it ren<g ref="char:EOLhyphen"/>ders us more capable of Con<g ref="char:EOLhyphen"/>templating his Perfections, diſ<g ref="char:EOLhyphen"/>covering the Equity of his Laws, and our Obligation to Obedience: In regard of our ſelves, it makes us apprehend our own Intereſt in that Obe<g ref="char:EOLhyphen"/>dience, Makes us tractable and perſwaſible, contrary to that brutiſh Stubbornneſs of the Horſe and Mule, which the Pſalmiſt reproacheth wicked Men with; beſides it accom<g ref="char:EOLhyphen"/>modates us in all Concerns of humane Life, forms it ſelf in<g ref="char:EOLhyphen"/>to all thoſe uſeful Contrivan<g ref="char:EOLhyphen"/>ces which may make our own Being here more Comfortable, eſpecially it renders a Man Company to himſelf, and in the greateſt Dearth of Society entertains him with his own Thoughts.</p>
+            <p>
+               <pb n="65" facs="tcp:172435:35"/>Laſtly, As to our Neigh<g ref="char:EOLhyphen"/>bours, it renders us uſeful and aſſiſtant; all theſe Diſcoveries and Experiments, thoſe Arts and Sciences, which are now the common Treaſure of the World, took their firſt Rice from the Ingenuity of parti<g ref="char:EOLhyphen"/>cular Perſons, <hi>&amp;c.</hi> Now all theſe are Imployments com<g ref="char:EOLhyphen"/>menſurable to the Faculty from whence they flow, and that anſwer its Excellency and Value, and he that ſo beſtows his Talent gives a good Ac<g ref="char:EOLhyphen"/>count of his Truſt.</p>
+            <p>This very Deſcription of In<g ref="char:EOLhyphen"/>genuity is enough (one would think) to make us all to fall in Love with it. To conclude all in the Words of that ex<g ref="char:EOLhyphen"/>cellent and wiſe Heathen <hi>Se<g ref="char:EOLhyphen"/>neca: Wealth, Honour and Fa<g ref="char:EOLhyphen"/>vour may come upon a Man
+<pb n="66" facs="tcp:172435:36"/>
+by chance; nay may be caſt up<g ref="char:EOLhyphen"/>on him without ſo much us look<g ref="char:EOLhyphen"/>ing after; but Vertue is the Work of Induſtry and Labour; and certainly 'tis worth the la<g ref="char:EOLhyphen"/>bour to purchaſe that good which brings all others along with it.</hi>
+            </p>
+            <p>
+               <hi>The moſt miſerable of all Mortals are they that deliver themſelves up to their Palates, or to their Luſts.</hi>
+            </p>
+            <p>I could out of my Chriſtian Affection to you (God-ſon) have ſaid a great deal more upon this Subject, but I am unwilling to cloy your tender Mind. Read now and then a lit<g ref="char:EOLhyphen"/>tle of this Diſcourſe as you have convenient Time, and conſider ſeriouſly of it: What I have herein done, is out of Senſe of my Duty, and that I might not be your God-father for no<g ref="char:EOLhyphen"/>thing,
+<pb n="67" facs="tcp:172435:36"/>
+but that you might be ſomewhat benefitted and pro<g ref="char:EOLhyphen"/>fitted by the ſame. And that this and all other Helps in this kind, in tendency to promote your Welfare both in Soul and Body, may prove ſucceſsful, ſhall be the hearty Prayers of your Chriſtian Friend.</p>
+            <p>Let us heartily pray, as our Church directs in the Col<g ref="char:EOLhyphen"/>lect for the 6<hi rend="sup">th</hi> Sunday af<g ref="char:EOLhyphen"/>ter the Epiphany.</p>
+            <p>O <hi>God, whoſe bleſſed Son was manifeſted, that he might deſtroy the Works of the Devil, and make us the Sons of God, and Heirs of eternal Life; Grant us, we beſeech thee, that having this
+<pb n="68" facs="tcp:172435:37"/>
+Hope, we may purifie our ſelves even as he is Pure; that when he ſhall appear again with Power and great Glory, we may be made like unto him in his eternal and glorious King<g ref="char:EOLhyphen"/>dom, where with thee, O Fa<g ref="char:EOLhyphen"/>ther, and thee, O holy Ghoſt, he liveth and reigneth ever one God World without end.</hi> Amen.</p>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <opener>
+               <salute>God-ſon,</salute>
+            </opener>
+            <p>I Hope you will give me leave further to put you in mind (now and then by Letter, ſo long as you and I live in this World) of your
+<pb n="69" facs="tcp:172435:37"/>
+Chriſtian Duty, and your ſolemn Engagement there<g ref="char:EOLhyphen"/>unto, and to encourage you in your Chriſtian Race. I adjudging it to be no more than my Duty ſo to do. And I humbly conceive, were God-fathers and God-Mo<g ref="char:EOLhyphen"/>thers but careful to perform their Duty towards their God-Children, there would be no reaſon for the quar<g ref="char:EOLhyphen"/>relling, and finding fault with the Inſtitutions of the Church injoining them; but the great Wiſdom and Piety, of the Church would emi<g ref="char:EOLhyphen"/>nently appear to them here<g ref="char:EOLhyphen"/>in. And, I pray God, that all who have made it their Bu<g ref="char:EOLhyphen"/>ſineſs to cry out againſt it,
+<pb n="70" facs="tcp:172435:38"/>
+would ſeriouſly conſider what harm they may have done, and repent of it: And that thoſe who honour the Inſtitution, would be care<g ref="char:EOLhyphen"/>ful to do all the good which the relation of a God-Father requires; and I doubt not but a Bleſſing would go a<g ref="char:EOLhyphen"/>long with them, for the in<g ref="char:EOLhyphen"/>creaſe of Truth, Piety, and the adorning of the Goſpel of God our Saviour in all things.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Novemb.</hi> 20. 1687.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:172435:38"/>
+            <head>BOOKS Printed for, and Sold by <hi>Luke Meredith,</hi> at the <hi>Star</hi> in St. <hi>Paul</hi>'s <hi>Church-yard.</hi>
+            </head>
+            <p>
+               <hi>THE Counteſs of</hi> Morton<hi>'s daily Exerciſe:</hi> Or, a Book of Prayers and Rules how to ſpend the time in the Service and Pleaſure of Al<g ref="char:EOLhyphen"/>mighty God.</p>
+            <p>
+               <hi>A Book for Beginners:</hi> Or, a help to Young Communi<g ref="char:EOLhyphen"/>cants, that they may be fitted for the <hi>Holy Communion,</hi> and receive it with Profit.</p>
+            <p>A Private Prayer for the uſe of thoſe who want the Oppor<g ref="char:EOLhyphen"/>tunity of Receiving the <hi>Holy Communion;</hi> Or are any ways diſabled from going to it, at the uſual times of its <hi>publick Adminiſtration.</hi> Price 1 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <p>A Copy of a <hi>Letter</hi> written to a Gentlewoman newly Se<g ref="char:EOLhyphen"/>duced
+<pb facs="tcp:172435:39"/>
+to the Church of <hi>Rome.</hi> By the Reverend <hi>J. T.</hi> D. D. late Biſhop of <hi>Down</hi> and <hi>Con<g ref="char:EOLhyphen"/>nor. Price ſtitch'd</hi> 2 <abbr>d.</abbr>
+            </p>
+            <p>
+               <hi>Happineſs at Hand:</hi> Or a Plain and Practical Diſcourſe of the Joy of Juſt Men's Souls in the ſtate of Separation from the Body. For the Inſtruction of weak Chriſtians, and for the Comfort of the Afflicted. By <hi>J. B.</hi> Rector of <hi>Fincham<g ref="char:EOLhyphen"/>ſtead,</hi> in the County of <hi>Berks. Price bound</hi> 1 <abbr>s.</abbr>
+            </p>
+            <p>Short Directions how to obtain Peace and Tranquility of Mind. <hi>Price</hi> 2 <abbr>d.</abbr>
+            </p>
+            <p>Reſt for the <hi>Heavy-Laden.</hi> Promiſed by our Lord and Saviour <hi>Jeſus Chriſt,</hi> to all ſincere Believers, practically diſcourſed upon. By <hi>Clement Ellis,</hi> Rector of <hi>Kirby</hi> in <hi>Not<g ref="char:EOLhyphen"/>tinghamſhire.</hi>
+            </p>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:172435:39"/>
+         </div>
+      </back>
+   </text>
+</TEI>
